@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hnphuong88.github.io/newroots-private-party-car-packet/sitemap.xml
